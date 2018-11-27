@@ -1,7 +1,9 @@
  
 ## Alex Kharouk
 
-I used to be a freelance copywriter until I found out about another form of writing. Now I'm striving to write excellent code and become a software developer.
+Before becoming a software developer, I was a freelance scriptwriter writing short films and television pilots. Whilst I now write a different form of scripts, I still enjoy writing creatively but as a hobby. Now, my passion lies within technology and developing applications that benefit humanity. Whether it's for the web, on your mobile phone, or within augmented reality, I love to challenge myself and learn new, amazing things.
+
+Currently, I am working towards learning Python and Machine Learning, and developing an augmented reality experience for those who struggle with mental health (specifically anxiety and depression). 
 
 ## Skills
 
@@ -21,6 +23,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+
+#### Java
+
+#### DevOps/CI/CD
 
 ## Education
 
@@ -52,11 +58,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### General Assembly (May 2018)
 
 - Digital Marketing Intensive
-- Presented a plan to launch a tech start-up
+- Presented a well-thought-out plan to launch a tech start-up that makes travelling cheaper and more accessible to everyone.
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Freelance Writer** (August 2017 to May 2018)    
+- Worked as an independent writer. 
