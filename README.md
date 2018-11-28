@@ -1,9 +1,22 @@
- 
-## Alex Kharouk
+ ## Alex Kharouk
+---
+[Projects](#projects) | [Skills](#skills) | Experience | Education | Hobbies and Interests | [Blog][1] | LinkedIn
 
 Before becoming a software developer, I was a freelance scriptwriter writing short films and television pilots. Whilst I now write a different form of scripts, I still enjoy writing creatively but as a hobby. Now, my passion lies within technology and developing applications that benefit humanity. Whether it's for the web, on your mobile phone, or within augmented reality, I love to challenge myself and learn new, amazing things.
 
-Currently, I am working towards learning Python and Machine Learning, and developing an augmented reality experience for those who struggle with mental health (specifically anxiety and depression). 
+Although I now specialize in tech, I still love to write. Therefore, I started a blog called the [Mental Codeathon][1], where I write technical blogs. Whether it's how I deal under pressure in a team environment or learning TDDing in Java, I am always eager to give back to the community and share my experience.
+
+Currently, I am working towards learning Python and Machine Learning, as well as develop an augmented reality experience for those who struggle with mental health (specifically anxiety and depression). 
+
+## Projects
+
+| Project   | Description | Technologies | Testing Technologies | Code/Deployed App
+|---        |---         |---           |---                    |---
+| [MADE to Help][3] | MADE to Help is a native, cross-platform, mobile app that helps find you the best, and most accessible, routes for those who need help navigating the city. | React Native, Expo, Google API, Express | Jest, Enzyme, Detox | [Github][3], [Expo Link][5], [Demo Video][4] |
+| [LINK](https://www.github.com/) | DESCRIPTION | TECH | TESTING TECH | CODE /DEMO |
+| [LINK](https://www.github.com/) | DESCRIPTION | TECH | TESTING TECH | CODE /DEMO |
+| [LINK](https://www.github.com/) | DESCRIPTION | TECH | TESTING TECH | CODE /DEMO |
+| [LINK](https://www.github.com/) | DESCRIPTION | TECH | TESTING TECH | CODE /DEMO |
 
 ## Skills
 
@@ -64,3 +77,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **Freelance Writer** (August 2017 to May 2018)    
 - Worked as an independent writer. 
+
+
+[1]: https://kharouk.github.io
+[3]: https://www.github.com/kharouk/made-to-help
+[4]: https://www.youtube.com/watch?v=igyb9lBnIM8
+[5]: https://exp.host/@alexkharouk/made-to-help
