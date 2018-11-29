@@ -73,14 +73,27 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**Freelance Writer** (August 2017 to May 2018)    
-- Worked as an independent writer. 
+**Freelance Content Writer** (Aug '17 to May '18)    
+- Worked multiple different positions, working with stakeholders and clients writing scripts, short stories, and doing translation work.
 
+**Script Supervisor** (Jan '18 to May '18)
+- Worked as a Script Supervisor on Set for short film productions, working closely with Directors and Producers. Good attention to detail was required.
+
+**Ghostwriter** (Oct '17 to Apr '18)
+- Collaborated with writing manager to fulfil the needs of the client. 
+- Created content tailored to a specific target audience and writing style. 
 ## Hobbies
 ### Creativity
 - Love to [Write][1]
 - Love Photography and [Travel Photography][21]
+- Love to make [Videos][20]
+### Sports/Mindfulness
+- Love Running and 5k Races
+- Love Yoga; Planning to go on a Kundalini retreat
+- Meditation 
 
+
+[20]: https://www.youtube.com/alexkharouk
 [21]: https://www.instagram.com/alexkharouk
 [22]: https://www.linkedin.com/in/alexkharouk/
 [1]: https://kharouk.github.io
