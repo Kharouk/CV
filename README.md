@@ -20,22 +20,29 @@ Currently, I am working towards learning Python and Machine Learning, as well as
 
 ### Ruby
 
-Developed different applications, as well as practiced TDD and OOP.
+Whether it was developing software for the terminal, or learning full-stack development with Rails and Sinatra, I was able to master Ruby during my time at Makers. 
 
-- Experience
-- Achievements
-- Evidence
+I loved learning the concepts of Ruby, and understanding how to use the language to my advantage. Whenever I struggled on a concept (like [Modules and Mixins][15]), I'd register it as an area of improvement and work on it.
+
+Learning Ruby wasn't only about learning a language; I used Ruby to also learn Code Design Principles, how to Test Drive, and how to debug applications.
 
 ### JavaScript
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+JavaScript is a language that excites me due to its versatility. I knew that JS is popular in both back-end and front-end. As someone who wants to work full-stack, I knew I had to master JavaScript first, rather than jump straight into a framework. 
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+So I re-learned OOP with JavaScript, creating applications for the web. I even created my own testing framework in JavaScript which I proudly called [Barracuda][16].
+
+After I felt comfortable with Vanilla JS, I begun learning frameworks like Vue, React, and React Native.
+
+React Native was used in my final Project at Makers, where we also use APIs and Firebase to create an accessible navigation app; a demo video can be found [here][4].
 
 ### Java
+
+Learning dynamic languages like Ruby and JavaScript was great, but I wanted some experience writing in static languages. I started with TDDing FizzBuzz in Java and I explain my process in this [blog post][17]. 
+
+I enjoyed Java so much that I also used it in a technical test, where we had to create a banking system written for the terminal. This was an opportunity for me to practice refactoring as well as writing code that is easy to change. 
+
+I was able to have separation of concerns in my classes, and successfully complete the tech test. A demo of the application can be found [here][8].
 
 ### DevOps/CI/CD
 
@@ -43,15 +50,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (Sept '18 to Dec '18)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
+- Gave me the space to learn how to program fluently, which makes me suitable in all kinds of technical teams. My fluency is discussed [here][13].
+- Allowed me to grow as a fast-learning developer, where I can pick up new technology and can up-skill quickly.
+- Worked with teams where I facilitated Stand-Ups and Retros, and allowed me to develop an agile development process, which I talk about [here][12].
+- Learned the values of Test-Driven Development and collaborating with others with Pair Programming. I bring up learning TDD as well as Object-Oriented Programming in this [post][14].
+  
 #### London Film Academy (September to October 2017)
 
 - Film and Screenwriting *Masters*
@@ -106,3 +109,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 [9]: http://acebook-cicada.eu-west-2.elasticbeanstalk.com
 [10]: https://www.github.com/kharouk/Twittarr
 [11]: https://twittarr.herokuapp.com/
+[16]: https://github.com/Kharouk/news-summary-challenge/tree/master/BarracudaTestingSuite
+
+<!-- Blog Posts -->
+[12]: https://kharouk.github.io/nanowrimo/facebook/2018/11/04/Rebuilding-Facebook-Part-One.html
+[13]: https://kharouk.github.io/nanowrimo/facebook/2018/11/08/Rebuilding-Facebook-Part-Two.html
+[14]: https://kharouk.github.io/makers-academy/week-two/2018/09/16/Two-Weeks-of-Being-a-Maker.html
+[15]: https://kharouk.github.io/100-days-of-code/daythree/2018/08/01/Mixin-It-Up-With-Ruby.html
+[17]: https://kharouk.github.io/makers-academy/java/test-driven-development/2018/10/29/Taking-a-Break-By-Learning-Java.html
