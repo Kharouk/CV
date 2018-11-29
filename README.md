@@ -1,6 +1,6 @@
  ## Alex Kharouk
 ---
-[Projects](#projects) | [Skills](#skills) | Experience | Education | Hobbies and Interests | [Blog][1] | LinkedIn
+[Projects](#projects) | [Skills](#skills) | Experience | Education | Hobbies and Interests | [Blog][1] | [LinkedIn][22]
 
 Before becoming a software developer, I was a freelance scriptwriter writing short films and television pilots. Whilst I now write a different form of scripts, I still enjoy writing creatively but as a hobby. Now, my passion lies within technology and developing applications that benefit humanity. Whether it's for the web, on your mobile phone, or within augmented reality, I love to challenge myself and learn new, amazing things.
 
@@ -78,7 +78,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **Freelance Writer** (August 2017 to May 2018)    
 - Worked as an independent writer. 
 
-
+[22]: https://www.linkedin.com
 [1]: https://kharouk.github.io
 [3]: https://www.github.com/kharouk/made-to-help
 [4]: https://www.youtube.com/watch?v=igyb9lBnIM8
