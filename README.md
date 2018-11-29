@@ -46,6 +46,10 @@ I was able to have separation of concerns in my classes, and successfully comple
 
 ### DevOps/CI/CD
 
+I also wanted to focus on automation and making my life easier. I spent some time understanding Continuous Deployment using services like Travis CI and Grunt, that can help automate my process when deploying my applications.
+
+I am also currently learning how to use Docker and Kubernetes, something I am interested in and excited to work with. 
+
 ## Education
 
 #### Makers Academy (Sept '18 to Dec '18)
