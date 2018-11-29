@@ -1,10 +1,9 @@
- ## Alex Kharouk
----
-[Projects](#projects) | [Skills](#skills) | Experience | Education | Hobbies and Interests | [Blog][1] | [LinkedIn][22]
+ # Alex Kharouk
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies) | [Blog][1] | [LinkedIn][22]
 
-Before becoming a software developer, I was a freelance scriptwriter writing short films and television pilots. Whilst I now write a different form of scripts, I still enjoy writing creatively but as a hobby. Now, my passion lies within technology and developing applications that benefit humanity. Whether it's for the web, on your mobile phone, or within augmented reality, I love to challenge myself and learn new, amazing things.
+Before becoming a software developer, I was a freelance scriptwriter writing short films and television pilots. However, I always had a passion for technology and an interest developing applications that benefit humanity. Whether it's for the web, on your mobile phone, or within augmented reality, I love to challenge myself and learn new, amazing things.
 
-Although I now specialize in tech, I still love to write. Therefore, I started a blog called the [Mental Codeathon][1], where I write technical blogs. Whether it's how I deal under pressure in a team environment or learning TDDing in Java, I am always eager to give back to the community and share my experience.
+Whilst I now write a different form of scripts, I still love to write. Therefore, I started a blog called the [Mental Codeathon][1], where I write technical blogs. Whether it's how I deal under pressure in a team environment or learning how to TDD in Java, I am always eager to give back to the community and share my experience.
 
 Currently, I am working towards learning Python and Machine Learning, as well as develop an augmented reality experience for those who struggle with mental health (specifically anxiety and depression). 
 
@@ -16,11 +15,10 @@ Currently, I am working towards learning Python and Machine Learning, as well as
 | [fakeBook][6] | A Social Media Network that takes the best parts of Facebook, MySpace, and Instagram and combines them into a beautiful package. | Ruby on Rails, React, AWS, Travis CI, ActiveRecord & WebSockets | RSpec  | [Deployed App][9] |
 | [JavaBank][7] | A bank transfer system written entirely in Java. Was built in around two days and my primary focuses were to improve my OOD as well as use TDD to create an application in a language I'm unfamiliar with. | Java | JUnit 5, Mockito | [Github][7], [REPL Demo][8] |
 | [Twittarr][10] | The Pirated Version of Twitter. Pirate at Sea? Join Twittarr and find other like-minded individuals as you surf the Seven Webs. 😊 | Sinatra, DataMapper, PostgreSQL, Travis | RSpec | [Github][10], [Deployed App][11] |
-| [LINK](https://www.github.com/) | DESCRIPTION | TECH | TESTING TECH | CODE /DEMO |
 
 ## Skills
 
-#### Ruby
+### Ruby
 
 Developed different applications, as well as practiced TDD and OOP.
 
@@ -28,7 +26,7 @@ Developed different applications, as well as practiced TDD and OOP.
 - Achievements
 - Evidence
 
-#### JavaScript
+### JavaScript
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -37,9 +35,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-#### Java
+### Java
 
-#### DevOps/CI/CD
+### DevOps/CI/CD
 
 ## Education
 
@@ -78,7 +76,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **Freelance Writer** (August 2017 to May 2018)    
 - Worked as an independent writer. 
 
-[22]: https://www.linkedin.com
+## Hobbies
+### Creativity
+- Love to [Write][1]
+- Love Photography and [Travel Photography][21]
+
+[21]: https://www.instagram.com/alexkharouk
+[22]: https://www.linkedin.com/in/alexkharouk/
 [1]: https://kharouk.github.io
 [3]: https://www.github.com/kharouk/made-to-help
 [4]: https://www.youtube.com/watch?v=igyb9lBnIM8
