@@ -5,7 +5,7 @@ Before becoming a software developer, I was a freelance scriptwriter writing sho
 
 Whilst I now write a different form of scripts, I still love to write. Therefore, I started a blog called the [Mental Codeathon][1], where I write technical blogs. Whether it's how I deal under pressure in a team environment or learning how to TDD in Java, I am always eager to give back to the community and share my experience.
 
-Currently, I am working towards learning Python and Machine Learning, as well as develop an augmented reality experience for those who struggle with mental health (specifically anxiety and depression). 
+Currently, I am working towards learning Python, C#, and Machine Learning, as well as develop an augmented reality experience for those who struggle with mental health (specifically anxiety and depression). 
 
 ## Projects
 
