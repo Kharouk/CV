@@ -82,6 +82,7 @@ I am also currently learning how to use Docker and Kubernetes, something I am in
 
 **Freelance Content Writer** (Aug '17 to May '18)    
 - Worked multiple different positions, working with stakeholders and clients writing scripts, short stories, and doing translation work.
+- Specialised in Digital Marketing, setting up and monitoring Google Analytics accounts and using SMART strategies for advertising campaigns for various companies.
 
 **Script Supervisor** (Jan '18 to May '18)
 - Worked as a Script Supervisor on Set for short film productions, working closely with Directors and Producers. Good attention to detail was required.
