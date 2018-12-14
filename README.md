@@ -3,6 +3,8 @@
 
 Before becoming a software developer, I was a freelance scriptwriter writing short films and television pilots. However, I always had a passion for technology and an interest developing applications that benefit humanity. Whether it's for the web, on your mobile phone, or within augmented reality, I love to challenge myself and learn new, amazing things.
 
+I'm a coach at [codebar][18], where I help underrepresented people learn programming every Wednesday. I'm also a floater (mentor assistant) at [codeyourfuture][19], where I help out mentors teach and support refugees with the dream of becoming developers. 
+
 Whilst I now write a different form of scripts, I still love to write. Therefore, I started a blog called the [Mental Codeathon][1], where I write technical blogs. Whether it's how I deal under pressure in a team environment or learning how to TDD in Java, I am always eager to give back to the community and share my experience.
 
 Currently, I am working towards learning Python, C#, and Machine Learning, as well as develop an augmented reality experience for those who struggle with mental health (specifically anxiety and depression). 
@@ -115,6 +117,8 @@ I am also currently learning how to use Docker and Kubernetes, something I am in
 [10]: https://www.github.com/kharouk/Twittarr
 [11]: https://twittarr.herokuapp.com/
 [16]: https://github.com/Kharouk/news-summary-challenge/tree/master/BarracudaTestingSuite
+[18]: https://codebar.io/
+[19]: https://codeyourfuture.io/
 
 <!-- Blog Posts -->
 [12]: https://kharouk.github.io/nanowrimo/facebook/2018/11/04/Rebuilding-Facebook-Part-One.html
