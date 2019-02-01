@@ -21,8 +21,8 @@ Currently, I am working towards learning Python, C#, and Machine Learning, as we
 ## Experience
 
 **Software Engineer** (Jan '19 to Present)
-_MVF Global_
-Working with These Technologies:
+
+Working at _MVF Global_ specialising in:
 - GraphQL
 - Gatsby
 - React
