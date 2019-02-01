@@ -18,6 +18,29 @@ Currently, I am working towards learning Python, C#, and Machine Learning, as we
 | [JavaBank][7] | A bank transfer system written entirely in Java. Was built in around two days and my primary focuses were to improve my OOD as well as use TDD to create an application in a language I'm unfamiliar with. | Java | JUnit 5, Mockito | [Github][7], [REPL Demo][8] |
 | [Twittarr][10] | The Pirated Version of Twitter. Pirate at Sea? Join Twittarr and find other like-minded individuals as you surf the Seven Webs. 😊 | Sinatra, DataMapper, PostgreSQL, Travis | RSpec | [Github][10], [Deployed App][11] |
 
+## Experience
+
+**Software Engineer** (Jan '19 to Present)
+_MVF Global_
+Working with These Technologies:
+- GraphQL
+- Gatsby
+- React
+- CMS Systems like **Contentful** and Drupal
+- Docker
+- PHP and Laravel
+
+**Freelance Content Writer** (Aug '17 to May '18)    
+- Worked multiple different positions, working with stakeholders and clients writing scripts, short stories, and doing translation work.
+- Specialised in Digital Marketing, setting up and monitoring Google Analytics accounts and using SMART strategies for advertising campaigns for various companies.
+
+**Script Supervisor** (Jan '18 to May '18)
+- Worked as a Script Supervisor on Set for short film productions, working closely with Directors and Producers. Good attention to detail was required.
+
+**Ghostwriter** (Oct '17 to Apr '18)
+- Collaborated with writing manager to fulfil the needs of the client. 
+- Created content tailored to a specific target audience and writing style. 
+
 ## Skills
 
 ### Ruby
@@ -80,18 +103,6 @@ I am also currently learning how to use Docker and Kubernetes, something I am in
 - Digital Marketing Intensive
 - Presented a well-thought-out plan to launch a tech start-up that makes travelling cheaper and more accessible to everyone.
 
-## Experience
-
-**Freelance Content Writer** (Aug '17 to May '18)    
-- Worked multiple different positions, working with stakeholders and clients writing scripts, short stories, and doing translation work.
-- Specialised in Digital Marketing, setting up and monitoring Google Analytics accounts and using SMART strategies for advertising campaigns for various companies.
-
-**Script Supervisor** (Jan '18 to May '18)
-- Worked as a Script Supervisor on Set for short film productions, working closely with Directors and Producers. Good attention to detail was required.
-
-**Ghostwriter** (Oct '17 to Apr '18)
-- Collaborated with writing manager to fulfil the needs of the client. 
-- Created content tailored to a specific target audience and writing style. 
 ## Hobbies
 ### Creativity
 - Love to [Write][1]
